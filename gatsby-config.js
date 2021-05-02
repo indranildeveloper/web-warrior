@@ -26,7 +26,7 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: "Web Worrior",
+    title: "Indranil Halder",
     description: "Web Dev Portfolio",
     copyright: "This website is Copyright 2021 Web Worrior",
     contact: "indranilhalder.dev@gmail.com",
